@@ -26,7 +26,7 @@ const Home = () => {
   return (
     <section className="home">
       <div className="header">
-        <h1>Home Page OF THE CART COUNTER APP</h1>
+        <h1>Home Page</h1>
 
         <div className="links">
           <Link to="/shop">Shop</Link>
