@@ -1,4 +1,4 @@
-# React + Vite
+# This repo is used to teach React redux and redux toolkit
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
